@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="aspose-email-24.1-jdk16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/aspose-email-24.1-jdk16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xchart-3.8.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flatlaf-3.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mssql-jdbc-12.6.0.jre11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/EasyModbusJava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
